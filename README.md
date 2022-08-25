@@ -1,5 +1,6 @@
 # Spaceship-Titanic
-Included here is my attempt at Kaggle's Spaceship Titanic Competition found at: https://www.kaggle.com/competitions/spaceship-titanic
+Included here is my attempt at Kaggle's Spaceship Titanic Competition found at: 
+https://www.kaggle.com/competitions/spaceship-titanic
 
 The objective of this competition is to correctly classify passengers that were transported off of the Spaceship Titanic by the anomaly using the features available and any that may be created from them. The training set included 8693 passengers and their records, and the test set included the records of 4277 passengers.
 
