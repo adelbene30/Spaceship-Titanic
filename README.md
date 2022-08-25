@@ -5,6 +5,7 @@ The objective of this competition is to correctly classify passengers that were 
 
 Prior to making a model to make such predictions, the data had to be visualized, cleaned, transformed, scaled, and encoded. Additional features were also created in order to allow both myself and the model to gain a deeper insight into the data. 
 
+* Plotting: Seaborn/Matplotlib
 * Scaler: StandardScaler
 * Encoder: OneHotEncoder
 * Model Used: CatBoostClassifier
